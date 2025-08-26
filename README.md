@@ -1,0 +1,1 @@
+Bot This is a Telegram bot built with Aiogram that allows users to submit an application form (zayavka). The bot collects a user's name, phone number, and age, stores the data in a PostgreSQL database, and also forwards the application to a Telegram channel.
